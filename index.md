@@ -1,4 +1,4 @@
-# Blog
+# Welcome!
 
-## What does Software Enginering means to me?
-  
+## Content:
+### [Blog (CS 260)](Blog.md)
