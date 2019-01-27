@@ -1,4 +1,3 @@
-# Blog Post 1
 ### [Back to all Posts](Blog.md)
 
 ##  “What Software Engineering means to me”
